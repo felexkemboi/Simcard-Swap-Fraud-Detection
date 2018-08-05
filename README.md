@@ -1,8 +1,8 @@
-# TF.VoiceClassif
-Classifying voices of different people using tensorflow. 
+# Sim Card Fraud Detection.
+With an upsurge in cybercrimes related to Sim Card Swap fraud in developing countries, making fraud detection is a top priority. 
 
 ## Intro
-Trying to seperate voices. 
+
 ## Prerequisites
 
 ## Mode
