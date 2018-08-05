@@ -3,20 +3,20 @@ With an upsurge in cybercrimes related to Sim Card Swap fraud in developing coun
 
 ## Intro
 
-## Prerequisites
+### Prerequisites
 
-## Mode
+### Mode
 Develop
 
-## Implementations
+### Implementations
 
-## Requirements
+### Requirements
 
-## Usage
+### Usage
 
-## Model 
+### Model 
 
-## Experiments
+### Experiments
 
 ## Results
 
@@ -24,4 +24,4 @@ Develop
 
 ### Testing
 
-## Reference
+#### Reference
