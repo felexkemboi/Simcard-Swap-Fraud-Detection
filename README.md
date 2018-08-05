@@ -33,6 +33,16 @@ There can be many factors as to why someone would want to swap his/her sim card,
 
 | Location                  | Age           | Ownership duration    | Monthly Payments |
 | -------------         |:--------------------: | ----------------: | ---------------:|
+|EastLeigh              |30                     | 3 years           |120               |
+|Buru Buru              |18                     | 2 months          |60               |
+|Donholm                |60                     | 1 years           |180               |
+|Lavington              |25                     | 2 years           |2000               |
+|Kileleshwa             |30                     | 6 years           |3000               |
+|Kitusuru               |45                     | 3 years           |1200               |
+
+
+
+
 
 
 ### Experiments
