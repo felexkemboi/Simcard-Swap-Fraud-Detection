@@ -9,9 +9,6 @@ Predicting the likelihood of Sim Card Fraud Occurrence.
 * **Train and test the data samples**
 * **Normalize and summarize the data**
 
-### Prerequisites
-Positive vibes.
-
 ### Mode
 Develop
 
