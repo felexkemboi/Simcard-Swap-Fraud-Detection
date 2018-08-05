@@ -17,9 +17,6 @@ Develop
 
 ### Implementations
 
-### Requirements
-
-
 ### Usage
 Sim Card Swap Fraud Detection.
 ### Model
