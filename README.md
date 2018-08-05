@@ -31,7 +31,7 @@ Sim Card Swap Fraud Detection.
 ### Sample Dataset
 There can be many factors as to why someone would want to swap his/her sim card, I will just use few. The swap will be represented by 1 and 0 will mean not swapped.
 
-| Location                  | Age           | Ownership duration    | Monthly Payments |  Contacts |Swap |
+| Location                  | Age           | Ownership duration    | Monthly Payments |  Contacts |Swap Agent |
 | -------------         |:--------------------: | ----------------: | ---------------:| ---------------:| ---------------:|
 |EastLeigh              |30                     | 3 years           |120               |20| 0|
 |Buru Buru              |18                     | 2 months          |60               |10 | 1|
