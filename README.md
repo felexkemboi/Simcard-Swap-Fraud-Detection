@@ -13,9 +13,15 @@ Predicting the likelihood of Sim Card Fraud Occurrence.
 Develop
 
 ### Implementations
+* **1. Define Problem**
+* **2. Prepare Data**
+* **3. Evaluate Algorithms**
+* **4. Improve Results**
+* **5. Present Results**
 
 ### Usage
 Sim Card Swap Fraud Detection.
+
 ### Model
 
 * **Logistic Regression.** Logistic regression is the appropriate regression analysis to conduct when the dependent variable is dichotomous (binary).  Like all regression analyses, the logistic regression is a predictive analysis.
