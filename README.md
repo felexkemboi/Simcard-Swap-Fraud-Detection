@@ -19,6 +19,7 @@ Develop
 ## Data
 ### Sample Dataset
 There can be many factors as to why someone would want to swap his/her sim card, I will just use few.
+
 | Location                  | Age           | Ownership duration    | Monthly Payments |
 | -------------         |:--------------------: | ----------------: | ---------------:|
 
