@@ -81,7 +81,6 @@ Add more Data, 30 is the target. I will train 20 and test 10.
 ## Results
 Graph representation:
 
-
 ### Training
 
 ### Testing
