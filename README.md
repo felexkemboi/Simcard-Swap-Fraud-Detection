@@ -4,7 +4,7 @@
 With an upsurge in cybercrimes related to Sim Card Swap fraud in developing countries, making fraud detection is a top priority. If we are able to estimate whether someone is going to commit Sim Card Fraud we can surely try to prevent it earlier. 
 
 ## Intro
-Predicting the likelihood of Sim Card Fraud Occurrence.
+Predicting the likelihood of Sim Card Swap Fraud Occurrence.
 * **Analysis, Time series and prediction**
 * **Train and test the data samples**
 * **Normalize and summarize the data**
@@ -49,7 +49,7 @@ There can be many factors as to why someone would want to swap his/her sim card,
 
 
 
-
+Add more Data, 30 is the targe. I will train 20 and test 10.
 
 ### Experiments
 
