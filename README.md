@@ -1,8 +1,9 @@
 <h1 align="center"> Sim Card Swap Fraud Detection</h1>
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a7e80990559246c9b3e98782a42c241f)](https://www.codacy.com/project/syombuamadona/Sim-Card-Fraud-Detection./dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Madonahs/Sim-Card-Fraud-Detection.&amp;utm_campaign=Badge_Grade_Dashboard)
+
 With an upsurge in cybercrimes related to Sim Card Swap fraud in developing countries, making fraud detection is a top priority. If we are able to estimate whether someone is going to commit Sim Card Fraud we can surely try to prevent it earlier. 
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a7e80990559246c9b3e98782a42c241f)](https://www.codacy.com/project/syombuamadona/Sim-Card-Fraud-Detection./dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Madonahs/Sim-Card-Fraud-Detection.&amp;utm_campaign=Badge_Grade_Dashboard)
 
 ## Intro
 
