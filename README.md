@@ -82,6 +82,9 @@ ID| Location                  | Age           | Ownership duration    | Monthly 
 
 
 Add more Data, 30 is the target. I will train 20 and test 10.
+### Data Modelling 
+Sample:
+![data modelling](https://user-images.githubusercontent.com/11560987/43804440-aa75f892-9a61-11e8-9d0c-e5201c2cfd3d.PNG)
 
 ### Experiments
 
