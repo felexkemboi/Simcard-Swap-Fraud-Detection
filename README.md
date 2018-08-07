@@ -1,9 +1,11 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a7e80990559246c9b3e98782a42c241f)](https://www.codacy.com/project/syombuamadona/Sim-Card-Fraud-Detection./dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Madonahs/Sim-Card-Fraud-Detection.&amp;utm_campaign=Badge_Grade_Dashboard)
 
-# Sim Card Swap Fraud Detection.
+<h1 align="center"> Sim Card Swap Fraud Detection</h1>
+
 With an upsurge in cybercrimes related to Sim Card Swap fraud in developing countries, making fraud detection is a top priority. If we are able to estimate whether someone is going to commit Sim Card Fraud we can surely try to prevent it earlier. 
 
 ## Intro
+
 Predicting the likelihood of Sim Card Swap Fraud Occurrence.
 * **Analysis, Time series and prediction**
 * **Train and test the data samples**
@@ -13,6 +15,7 @@ Predicting the likelihood of Sim Card Swap Fraud Occurrence.
 Develop
 
 ### Implementations
+
 * **1. Define Problem**
 * **2. Prepare Data**
 * **3. Evaluate Algorithms**
@@ -20,6 +23,7 @@ Develop
 * **5. Present Results**
 
 ### Usage
+
 Sim Card Swap Fraud Detection.
 
 ### Model
@@ -28,7 +32,9 @@ Sim Card Swap Fraud Detection.
 
 
 ## Data
+
 ### Sample Dataset
+
 There can be many factors as to why someone would want to swap his/her sim card, I will just use few. The swap will be represented by '1' and '0' will represent not swapped. I created this data for this exercise.
 
 Sample Output Representation: 
@@ -79,6 +85,7 @@ Add more Data, 30 is the target. I will train 20 and test 10.
 ### Experiments
 
 ## Results
+
 Graph representation:
 
 ### Training
