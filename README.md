@@ -49,11 +49,13 @@ There can be many factors as to why someone would want to swap his/her sim card,
 
 
 
-Add more Data, 30 is the targe. I will train 20 and test 10.
+Add more Data, 30 is the target. I will train 20 and test 10.
 
 ### Experiments
 
 ## Results
+Graph representation:
+
 
 ### Training
 
