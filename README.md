@@ -29,14 +29,16 @@ Sim Card Swap Fraud Detection.
 
 ### Model
 
-* **Logistic Regression.** Logistic regression is the appropriate regression analysis to conduct when the dependent variable is dichotomous (binary).  Like all regression analyses, the logistic regression is a predictive analysis.
+* **Logistic Regression.** Logistic regression is the appropriate regression analysis to conduct when the dependent variable is dichotomous (binary). Like all regression analyses, the logistic regression is a predictive analysis.
 
 
 ## Data
 
 ### Sample Dataset
 
-There can be many factors as to why someone would want to swap his/her sim card, I will just use few. The swap will be represented by '1' and '0' will represent not swapped. I created this data for this exercise.
+There can be many factors as to why someone would want to swap his/her sim card, I will just use few. The swap will be represented by 
+```1``` and 
+```0``` will represent not swapped. I created this data for this exercise.
 
 Sample Output Representation: 
 
