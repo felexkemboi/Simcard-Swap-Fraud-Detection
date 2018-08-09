@@ -1,7 +1,8 @@
+# -*- coding: utf-8 -*-
 """
-Created on Sat Aug  4 22:32:36 2018
+Created on Thu Aug  9 17:35:26 2018
 
-@author: madona syombua
+@author: madon
 """
 
 import pandas as pd
