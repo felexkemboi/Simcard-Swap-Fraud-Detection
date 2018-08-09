@@ -14,7 +14,7 @@ df = pd.read_csv("customer_data.csv")
 print(df)
 
  
-X = df.iloc[:,3:-1]
+X = df.iloc[:,2:-1]
 
 y = df.iloc[:,-1]
 

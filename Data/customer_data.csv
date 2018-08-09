@@ -1,31 +1,31 @@
-Location,Age,Ownership duration, MP in Ksh,Contacts,Swap Agent
-EastLeigh,30,3 years,1200,20,0
-Buru Buru,18,2 months,60,10,1
-Donholm,60,1 years,180,44,0
-Lavington,25,2 years,200,30,0
-Kileleshwa,30,2 weeks,300,10,1
-Kitusuru,45,1 month,900,55,0
-EastLeigh,50,3 years,120,20,0
-Buru Buru,78,1 months,60,10,1
-Donholm,26,1 years,180,44,0
-Dagoretti,23,2 years,200,30,0
-Kasarani,33,2 weeks,300,10,1
-Kitusuru,45,1 month,1200,55,0
-Umoja I,30,2 months,800,100,0
-Pumwani,33,6 months,60,90,1
-Umoja II,26,1 years,180,44,0
-Ngara,23,2 years,2000,30,0
-Kariokor,33,2 weeks,3000,10,1
-Mihang'o,45,1 month,1200,55,0
-Makadara,66,1 weeks,50,100,0
-Dandora Area III,78,1 months,60,10,1
-Roysambu,26,1 years,180,44,0
-Mutu-ini,23,2 years,2000,30,0
-Kilimani,33,2 weeks,300,10,1
-Ruai,45,1 month,1200,55,0
-Ridgeways,66,1 weeks,50,100,0
-Riruta,78,1 months,60,10,1
-Donholm,26,1 years,180,44,0
-Dandora Area IV,23,2 years,200,30,0
-Bahati,33,2 weeks,3000,10,1
-Karura,45,1 month,1200,50,1
+Location,Age,Complaints, MP in Ksh,Contacts,Swap Agent
+EastLeigh,30,0,1200,20,0
+Buru Buru,18,2,60,10,1
+Donholm,60,1,180,44,0
+Lavington,25,2,200,30,0
+Kileleshwa,30,2,300,10,1
+Kitusuru,45,1,900,55,0
+EastLeigh,50,3,120,20,0
+Buru Buru,78,1,60,10,1
+Donholm,26,1,180,44,0
+Dagoretti,23,2,200,30,0
+Kasarani,33,2,300,10,1
+Kitusuru,45,1,1200,55,0
+Umoja I,30,2,800,100,0
+Pumwani,33,6,60,90,1
+Umoja II,26,1,180,44,0
+Ngara,23,2,2000,30,0
+Kariokor,33,2,3000,10,1
+Mihang'o,45,1,1200,55,0
+Makadara,66,1,50,100,0
+Dandora Area III,78,1,60,10,1
+Roysambu,26,1,180,44,0
+Mutu-ini,23,2,2000,30,0
+Kilimani,33,2,300,10,1
+Ruai,45,1,1200,55,0
+Ridgeways,66,1,50,100,0
+Riruta,78,1,60,10,1
+Donholm,26,1,180,44,0
+Dandora Area IV,23,2,200,30,0
+Bahati,33,2,3000,10,1
+Karura,45,1,1200,50,1
