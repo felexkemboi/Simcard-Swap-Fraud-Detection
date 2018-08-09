@@ -91,8 +91,7 @@ Sample:
 ### Experiments
 
 ## Results
-
-Graph representation:
+![hi](https://user-images.githubusercontent.com/11560987/43903184-753d8964-9bb1-11e8-90b0-58b539744713.PNG)
 
 ### Training
 
