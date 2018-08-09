@@ -17,11 +17,11 @@ Develop
 
 ### Implementations
 
-* **1. Define Problem**
-* **2. Prepare Data**
-* **3. Evaluate Algorithms**
-* **4. Improve Results**
-* **5. Present Results**
+* **Define Problem**
+* **Prepare Data**
+* **Evaluate Algorithms**
+* **Improve Results**
+* **Present Results**
 
 ### Usage
 
