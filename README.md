@@ -90,6 +90,9 @@ Sample:
 
 ### Experiments
 
+![swap](https://user-images.githubusercontent.com/11560987/43932498-1571034a-9c0a-11e8-9661-fcad6ccc4609.PNG)
+![swap2](https://user-images.githubusercontent.com/11560987/43932528-3546c7f4-9c0a-11e8-8b49-702f7896e110.PNG)
+
 ## Results
 
 
