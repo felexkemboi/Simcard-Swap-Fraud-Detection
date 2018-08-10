@@ -83,6 +83,7 @@ ID| Location                  | Age           | Subscriber Complaints   | Monthl
 
 
 ### Preview of Data
+```data.describe()```
 
 ![describe](https://user-images.githubusercontent.com/11560987/43975555-afa89966-9ca3-11e8-988f-3122c79e3283.PNG)
 
