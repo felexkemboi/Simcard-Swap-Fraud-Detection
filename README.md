@@ -97,7 +97,7 @@ Sample:
 ### Training
 
 ### Testing
-![accuracy](https://user-images.githubusercontent.com/11560987/43934719-45b24116-9c16-11e8-9c7d-2cb442dba257.png)
+![accuracy](https://user-images.githubusercontent.com/11560987/43936810-fbcb2d2e-9c1f-11e8-87d4-7309bac805ac.png)
 
 
 
