@@ -83,11 +83,13 @@ ID| Location                  | Age           | Subscriber Complaints   | Monthl
 
 
 ### Preview of Data
+
 ![describe](https://user-images.githubusercontent.com/11560987/43975555-afa89966-9ca3-11e8-988f-3122c79e3283.PNG)
 
 
 ### Data Visualization
-Pairplot
+* **Graphing the features in a pair plot** 
+
 ![swap_fraud](https://user-images.githubusercontent.com/11560987/43934745-60242a14-9c16-11e8-9fe9-97de48961f1e.png)
 
 ## Results
