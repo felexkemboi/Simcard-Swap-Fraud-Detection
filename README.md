@@ -87,7 +87,7 @@ ID| Location                  | Age           | Subscriber Complaints   | Monthl
 Sample:
 ![data modelling](https://user-images.githubusercontent.com/11560987/43804440-aa75f892-9a61-11e8-9d0c-e5201c2cfd3d.PNG)
 
-### Experiments
+### Data Visualization
 ![swap_fraud](https://user-images.githubusercontent.com/11560987/43934745-60242a14-9c16-11e8-9fe9-97de48961f1e.png)
 
 ## Results
