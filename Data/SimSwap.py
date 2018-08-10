@@ -2,9 +2,12 @@
 """
 Created on Thu Aug  9 17:35:26 2018
 
-@author: madon
+@author: madona syombua
+
 The data is checking , Age, Number of Complaints, Monthly Payment in Ksh
 Number of contacts the user has, and Swap Agent.
+
+I try to name the variable well for easier reading.
 """
 
 import pandas as pd
@@ -13,6 +16,7 @@ sns.set_palette('husl')
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
+from sklearn import metrics
 
 
 df = pd.read_csv("customer_data.csv")
@@ -43,12 +47,55 @@ lr = LogisticRegression()
 
 lr.fit(X_train, y_train)
 
-prediction_values = lr.predict(X_test)
+y_predict = lr.predict(X_test)
+y_predict.reshape(-1,1)
 
-print(prediction_values)
+'''
+Using the dummy data the percentage is 62.5
 
-print("Testing accuracy\n")
-plt.xlabel('Swap fraud occurrences')
-plt.ylabel('Accuracy Score')
-plt.title('Accuracy Scores for Swap Fraud')
+'''
+print(y_predict)
+print(y_test)
+
+accuracy =  metrics.accuracy_score(y_test, y_predict)
+precision =  metrics.precision_score(y_test, y_predict)
+recall =  metrics.recall_score(y_test, y_predict)
+f1ratio =  metrics.f1_score(y_test, y_predict)
+
+print(accuracy)
+
+print(precision)
+
+print(recall)
+print(f1ratio)
+
+
+y_score_lr = lr.fit(X_train, y_train).decision_function(X_test)
+fpr_lr, tpr_lr, _ = metrics.roc_curve(y_test, y_score_lr)
+roc_auc_lr = metrics.auc(fpr_lr, tpr_lr)
+
+print("Testing accuracy\n\n")
+
+plt.figure()
+plt.xlim([-0.01, 1.00])
+plt.ylim([-0.01, 1.01])
+plt.plot(fpr_lr, tpr_lr, lw=3, label='LogRegr ROC curve (area = {:0.2f})'.format(roc_auc_lr))
+plt.xlabel('False Positive Rate', fontsize=16)
+plt.ylabel('True Positive Rate', fontsize=16)
+plt.title('ROC curve (1-of-10 digits classifier)', fontsize=16)
+plt.legend(loc='lower right', fontsize=13)
+plt.plot([0, 1], [0, 1], color='navy', lw=3, linestyle='--')
+plt.axes().set_aspect('equal')
 plt.show()
+
+
+
+
+
+
+
+
+
+
+
+
