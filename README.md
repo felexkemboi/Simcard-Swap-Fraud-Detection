@@ -8,7 +8,6 @@ With an upsurge in cybercrimes related to Sim Card Swap fraud in developing coun
 ## Intro
 
 Predicting the likelihood of Sim Card Swap Fraud Occurrence.
-* **Analysis, Time series and prediction**
 * **Train and test the data samples**
 * **Normalize and summarize the data**
 
@@ -94,10 +93,12 @@ Sample:
 ## Results
 ```0.625``` Not very bad since the data is Random.
 
-### Training
 
-### Testing
-![accuracy](https://user-images.githubusercontent.com/11560987/43934719-45b24116-9c16-11e8-9c7d-2cb442dba257.png)
+### ROC
+![accuracy](https://user-images.githubusercontent.com/11560987/43937762-3b996100-9c25-11e8-942a-77b9b3ba07f5.png)
+
+
+
 
 
 
