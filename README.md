@@ -82,12 +82,12 @@ ID| Location                  | Age           | Subscriber Complaints   | Monthl
 |30|Karura              |45                     | 1            |1200               |55|0|
 
 
+### Preview of Data
+![describe](https://user-images.githubusercontent.com/11560987/43975555-afa89966-9ca3-11e8-988f-3122c79e3283.PNG)
 
-### Data Modeling 
-Sample:
-![data modelling](https://user-images.githubusercontent.com/11560987/43804440-aa75f892-9a61-11e8-9d0c-e5201c2cfd3d.PNG)
 
 ### Data Visualization
+Pairplot
 ![swap_fraud](https://user-images.githubusercontent.com/11560987/43934745-60242a14-9c16-11e8-9fe9-97de48961f1e.png)
 
 ## Results
@@ -97,6 +97,9 @@ Sample:
 ### ROC
 ![accuracy](https://user-images.githubusercontent.com/11560987/43937762-3b996100-9c25-11e8-942a-77b9b3ba07f5.png)
 
+### Data Modeling 
+Sample:
+![data modelling](https://user-images.githubusercontent.com/11560987/43804440-aa75f892-9a61-11e8-9d0c-e5201c2cfd3d.PNG)
 
 
 
