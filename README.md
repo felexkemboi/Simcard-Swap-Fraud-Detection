@@ -46,7 +46,8 @@ Swap | Not Swapped|
 |------ |------:|
 |1 | 0|
 
-* **Sample Data taken from Nairobi, Kenya constituencies**
+* **Sample Fake Data taken from Nairobi, Kenya constituencies**
+Data is not given in this case so I decided to create my own, I will identify Locations here and not use the Location since we can have many customers living in the same Location.  
 
 ID| Location                  | Age           | Subscriber Complaints   | Monthly Payments KSH |  Contacts |Swap Agent |
 | ------------- | -------------         |:--------------------: | ----------------: | ---------------:| ---------------:| ---------------:|
@@ -83,24 +84,22 @@ ID| Location                  | Age           | Subscriber Complaints   | Monthl
 
 
 
-Add more Data, 30 is the target. I will train 20 and test 10.
 ### Data Modeling 
 Sample:
 ![data modelling](https://user-images.githubusercontent.com/11560987/43804440-aa75f892-9a61-11e8-9d0c-e5201c2cfd3d.PNG)
 
 ### Experiments
-
-![swap](https://user-images.githubusercontent.com/11560987/43932498-1571034a-9c0a-11e8-9661-fcad6ccc4609.PNG)
-![swap2](https://user-images.githubusercontent.com/11560987/43932528-3546c7f4-9c0a-11e8-8b49-702f7896e110.PNG)
+![swap_fraud](https://user-images.githubusercontent.com/11560987/43934745-60242a14-9c16-11e8-9fe9-97de48961f1e.png)
 
 ## Results
-
+```0.625``` Not very bad since the data is Random.
 
 ### Training
 
 ### Testing
+![accuracy](https://user-images.githubusercontent.com/11560987/43934719-45b24116-9c16-11e8-9c7d-2cb442dba257.png)
 
-#### Reference
+
 
 
 
