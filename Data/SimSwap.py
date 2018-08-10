@@ -23,11 +23,14 @@ df = pd.read_csv("customer_data.csv")
 
 print(df)
 
+
+'''
+Just simple test, not perfect but learning.
 '''
 df.describe()
 
 df.info()
-'''
+
  
 
 df['Swap Agent'].value_counts()
